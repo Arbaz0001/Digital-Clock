@@ -4,7 +4,7 @@ A simple and responsive **Digital Clock** built using **HTML**, **CSS**, and **J
 
 ## 📸 Preview
 
-![Digital Clock Screenshot](screenshot.png) <!-- Replace with your own image if available -->
+![Digital Clock](screenshot.png) <!-- Replace with your own image if available -->
 <img width="1914" height="818" alt="image" src="https://github.com/user-attachments/assets/94f95f9e-e19d-46aa-9734-806099ea6437" />
 
 
